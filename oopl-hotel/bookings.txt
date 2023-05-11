@@ -1,0 +1,2 @@
+User: Athena3 || Hotel: Hotelrandom || Checkin: 2023-01-26 || Checkout: 2023-01-28 || Duration: 2 days || Price: 140
+User: harry || Hotel: Riverside Resort || Checkin: 2023-02-23 || Checkout: 2023-04-01 || Duration: 37 days || Price: 3330
